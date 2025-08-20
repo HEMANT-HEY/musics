@@ -1,26 +1,33 @@
 [
   {
     "id": 1,
-    "title": "Shree Ram Bhajan",
-    "url": "https://www.youtube.com/watch?v=S28okokNtFk",
-    "image": "https://example.com/images/ram.jpg"
+    "title": "Gayatri Mantra",
+    "url": "https://ia601202.us.archive.org/0/items/GayatriMantra_201801/gayatri1.mp3",
+    "image": "https://i.pinimg.com/736x/82/27/cf/8227cfdb9af30299682eed6fcdbf8b4d.jpg"
   },
   {
     "id": 2,
-    "title": "Shiv Bhajan",
-    "url": "https://www.youtube.com/watch?v=S28okokNtFk",
-    "image": "https://example.com/images/shiv.jpg"
+    "title": "Bajarang Baan",
+    "url": "https://ia800502.us.archive.org/33/items/ShreeHanumanChalisa_201510/01%20Bajrang%20Baan.mp3",
+    "image": "https://i.pinimg.com/736x/5b/7c/cd/5b7ccd5b643f4fe35a78ae13382be18b.jpg"
   },
   {
     "id": 3,
-    "title": "Krishna Bhajan",
-    "url": "https://www.youtube.com/watch?v=S28okokNtFk",
-    "image": "https://example.com/images/krishna.jpg"
+    "title": "Jai Jai Gusai",
+    "url": "https://ia600502.us.archive.org/33/items/ShreeHanumanChalisa_201510/02%20Jai%20Jai%20Hanuman%20Gusaie.mp3",
+    "image": "https://i.pinimg.com/736x/11/97/0d/11970d2d61752c1bd5c6e52a131a8aa0.jpg"
   },
   {
     "id": 4,
     "title": "Hanuman Chalisa",
-    "url": "https://www.youtube.com/watch?v=S28okokNtFk",
-    "image": "https://example.com/images/hanuman.jpg"
+    "url": "https://ia600502.us.archive.org/33/items/ShreeHanumanChalisa_201510/05%20Shree%20Hanuman%20Chalisa.mp3",
+    "image": "https://i.pinimg.com/1200x/98/23/03/98230333d11504007856edada0ffa17d.jpg"
+  }
+    {
+    "id": 4,
+    "title": "Hanuman Aarti",
+    "url": "https://ia600502.us.archive.org/33/items/ShreeHanumanChalisa_201510/06%20Shree%20Hanuman%20Ji%20Ki%20Aarti.mp3",
+    "image": "https://i.pinimg.com/736x/f7/fc/0b/f7fc0b107a41cd3a136c77103ed7f858.jpg"
   }
 ]
+
