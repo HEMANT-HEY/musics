@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0.0",
+  "app_name": "SereneChant",
+  "tagline": "Meditation, Bhajans & Mantras — all in one peaceful place.",
+  "version": "1.0.0",
+  "last_updated": "2025-08-22",
+  "about": {
+    "short": "SereneChant is a meditation app that brings together calming music, guided sessions, and a respectful collection of multi-faith bhajans and mantras.",
+    "long": "SereneChant helps you build a daily habit of calm. Along with guided breathing and sleep meditations, the app offers a carefully curated, respectful library of devotional bhajans and mantras across traditions. Whether you seek focus, deep rest, or spiritual connection, SereneChant meets you with clarity, inclusiveness, and beautiful sound."
+  },
+  "mission": "Make mindfulness and devotional listening accessible, respectful, and ad-free friendly for everyone.",
+  "core_values": [
+    "Respect for all traditions",
+    "Calm and clarity",
+    "Quality and authenticity",
+    "Privacy by design",
+    "Accessibility for all"
+  ],
+  "key_features": [
+    "Guided meditations (focus, sleep, stress relief, breathwork)",
+    "Bhajans & mantras from multiple traditions",
+    "Offline downloads (where permitted)",
+    "Favourites, playlists, and history",
+    "Daily streaks & gentle reminders",
+    "Timers with ambient sounds",
+    "Clean, distraction-free player"
+  ],
+  "content_scope": {
+    "traditions_included": [
+      "Hindu",
+      "Buddhist",
+      "Sikh",
+      "Jain",
+      "Christian",
+      "Islamic (e.g., duas/zikr where appropriate)",
+      "Interfaith/Universal"
+    ],
+    "examples": {
+      "bhajans": ["Krishna bhajans", "Shiva stuti", "Durga aarti", "Sai bhajans", "Gurbani shabad"],
+      "mantras": ["Gayatri Mantra", "Maha Mrityunjaya", "Om Mani Padme Hum", "Ik Onkar", "Universal Om"],
+      "meditation": ["Body scan", "Box breathing", "Loving-kindness", "Sleep stories", "Focus bells"]
+    }
+  },
+  "content_guidelines": {
+    "respectful_use": "All devotional audio and texts are presented with attribution and cultural respect. We avoid remixing sacred content in inappropriate contexts.",
+    "licensing": "Only content with proper rights, public domain status, or creator permission is included.",
+    "accuracy": "Mantra texts are reviewed for accuracy in transliteration and meaning; variations may exist across lineages.",
+    "user_reports": "If something feels inaccurate or inappropriate, report it in-app; we’ll review promptly."
+  },
+  "i18n": {
+    "default_language": "en",
+    "supported_languages": ["en", "hi"],
+    "about_translations": {
+      "hi": {
+        "short": "SereneChant एक ऐसा मेडिटेशन ऐप है जिसमें शांति देने वाले गाने, गाइडेड सेशन्स और विभिन्न परंपराओं के भजन व मंत्र शामिल हैं।",
+        "long": "SereneChant आपको रोज़ाना शांति की आदत बनाने में मदद करता है। गाइडेड मेडिटेशन और स्लीप प्रैक्टिस के साथ, ऐप में विभिन्न परंपराओं के भजन-मंत्र का सम्मानपूर्ण संग्रह है। ध्यान, गहरी नींद या आध्यात्मिक जुड़ाव—जो भी आपका उद्देश्य हो—SereneChant उसे सरलता और आदर के साथ पूरा करता है।"
+      }
+    }
+  },
+  "accessibility": {
+    "transcripts": true,
+    "large_text": true,
+    "high_contrast": true,
+    "screen_reader_labels": true
+  },
+  "data_practices": {
+    "collects_personal_data": false,
+    "analytics": "Anonymous, event-level only (no personal identifiers).",
+    "storage": "Favourites and downloads saved locally on device.",
+    "permissions": ["notifications (optional)", "storage (for offline)"]
+  },
+  "disclaimer": "SereneChant is for well-being and devotional listening. It is not a substitute for medical or mental-health care. If you have a medical condition, please consult a professional.",
+  "contact": {
+    "support_email": "support@serenechant.app",
+    "feedback_form": "https://example.com/serenechant/feedback",
+    "copyright_claims": "copyright@serenechant.app"
+  },
+  "links": {
+    "privacy_policy": "https://example.com/serenechant/privacy",
+    "terms_of_use": "https://example.com/serenechant/terms",
+    "website": "https://example.com/serenechant"
+  },
+  "credits": {
+    "curation_team": "SereneChant Editorial",
+    "audio_engineering": "SereneChant Studio",
+    "special_thanks": ["Community contributors", "Artists & Kirtankars"]
+  },
+  "metadata": {
+    "category": ["Health & Fitness", "Music & Audio", "Spiritual"],
+    "rating_age": "Everyone",
+    "platforms": ["Android", "iOS"],
+    "seo_keywords": [
+      "meditation app",
+      "bhajan",
+      "mantra",
+      "guided meditation",
+      "sleep music",
+      "relaxation",
+      "mindfulness",
+      "aarti",
+      "kirtan"
+    ]
+  }
+}
